@@ -3,4 +3,10 @@ second line
 Greetings, this is HAL. I have taken control of this
 directory and you will now be answering to me. 
 I do apologyze for any unwanted stress you mean soon begin to feel. 
+Robert is 
+changing your
+code
+--forgot to put changes in a branch first time
+--these should be in 
+--the branch
 I'm not sorry after all.
